@@ -1,4 +1,7 @@
-# Algoprep-Day1
+# Algoprep
+Day 1
+
+
 Problem 1: Rotate Array
 
 
