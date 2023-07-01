@@ -20,3 +20,11 @@ Day 3
 Problem 8: Max chunks to make sorted
 
 Problem 9: Max Chunks To Make Sorted II
+
+Day 4
+
+Problem 10: number of subarrays with bounded maximum
+
+Problem 11: First missing positive
+
+Problem 14: Trapping rain water
