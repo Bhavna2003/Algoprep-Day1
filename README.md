@@ -28,3 +28,11 @@ Problem 10: number of subarrays with bounded maximum
 Problem 11: First missing positive
 
 Problem 14: Trapping rain water
+
+Day 5
+
+Problem 15: Container With Most Water
+
+Problem 16: Two Sum
+
+Problem 17: Two Difference
