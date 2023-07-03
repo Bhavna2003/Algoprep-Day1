@@ -44,3 +44,7 @@ Problem 18: Permutations
 Problem 19: Permutation Sequence
 
 Problem 22: Letter combination of Phone number
+
+Problem 22: Single Element
+
+Problem 22: Single Element 2
