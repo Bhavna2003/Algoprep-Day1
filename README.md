@@ -36,3 +36,11 @@ Problem 15: Container With Most Water
 Problem 16: Two Sum
 
 Problem 17: Two Difference
+
+Day 6
+
+Problem 18: Permutations
+
+Problem 19: Permutation Sequence
+
+Problem 22: Letter combination of Phone number
