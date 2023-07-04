@@ -45,6 +45,12 @@ Problem 19: Permutation Sequence
 
 Problem 22: Letter combination of Phone number
 
-Problem 22: Single Element
+Problem 25: Single Element
 
-Problem 22: Single Element 2
+Problem 26: Single Element 2
+
+Day 7
+
+Problem 20: Combination sum
+
+Problem 23: Rat in a maze
