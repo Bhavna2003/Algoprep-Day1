@@ -54,3 +54,9 @@ Day 7
 Problem 20: Combination sum
 
 Problem 23: nQueen
+
+Day 8
+
+Problem 27: Single Element 3
+
+Problem 28: Divide 2 Integers
