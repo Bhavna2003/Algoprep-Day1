@@ -53,4 +53,4 @@ Day 7
 
 Problem 20: Combination sum
 
-Problem 23: Rat in a maze
+Problem 23: nQueen
