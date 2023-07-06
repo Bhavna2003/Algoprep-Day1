@@ -60,3 +60,9 @@ Day 8
 Problem 27: Single Element 3
 
 Problem 28: Divide 2 Integers
+
+Day 9
+
+Problem 24: Rat in a maze
+
+Problem 29: Max AND Pair
